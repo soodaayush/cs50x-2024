@@ -4,16 +4,16 @@
 
 ## Inspiration
 
-I decided to redo this course again due to seeing new content and wanting to earn the verified certificate offered by edX.
+I decided to redo this course due to the new content and my desire to earn the verified certificate offered by edX.
 
 ## Challenges
 
-Work in-progess.
+Work in progress.
 
 ## Lessons Learned
 
-Work in-progress.
+Work in progress.
 
 ## The Repository
 
-This is a collection of all of the problem sets I have submitted to Harvard's `submit50` to be marked in order to earn the certificate.
+This is a collection of all the problem sets I have submitted to Harvard's `submit50` to be marked in order to earn the certificate.
