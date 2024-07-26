@@ -1,0 +1,29 @@
+sort1 uses: Bubble Sort
+
+How do you know?:
+
+sorted50000.txt => 0.427s
+reversed50000.txt => 4.790s
+random50000.txt => 5.784s
+
+Performs much faster on sorted input due to early termination, but much slower on reversed and random inputs.
+
+sort2 uses: Merge Sort
+
+How do you know?:
+
+sorted50000.txt => 0.752s
+reversed50000.txt => 0.468s
+random50000.txt => 0.435s
+
+Has consistent performance across all types of input, leading to similar times for sorted, reversed, and random inputs.
+
+sort3 uses: Selection
+
+How do you know?:
+
+sorted50000.txt => 2.219s
+reversed50000.txt => 2.568s
+random50000.txt => 2.336s
+
+Has consistent performance regardless of input type, resulting in similar times for sorted, reversed, and random inputs.
