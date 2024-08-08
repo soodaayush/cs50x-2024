@@ -1,0 +1,22 @@
+HTML Tags:
+
+<div>
+<section>
+<h1>
+<a>
+<img>
+<h2>
+<label>
+<button>
+<h3>
+<p>
+
+CSS Properties:
+
+font-size
+display
+justify-content
+align-items
+border-radius
+
+Description of how I chose to use JavaScript and Bootstrap: I chose to use JavaScript and Bootstrap by implementing a button on the projects page that will reveal the projects when clicked on.
