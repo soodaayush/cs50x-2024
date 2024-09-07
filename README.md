@@ -24,5 +24,5 @@ The final project is not in this repository, as it is in a separate repository. 
 
 ## Links
 
-edX Certificate: https://courses.edx.org/certificates/51884bfbb2734dc4bbdf1eca77ce83db
+edX Certificate: https://courses.edx.org/certificates/51884bfbb2734dc4bbdf1eca77ce83db \
 CS50 Certificate: https://certificates.cs50.io/91926646-65e5-48dc-9c40-ec4d5144ca73.pdf?size=letter
