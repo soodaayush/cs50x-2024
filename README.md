@@ -20,7 +20,7 @@ This repository contains all the problem sets I submitted to Harvard’s `submit
 
 ## Final Project
 
-The final project is not in this repository, as it is in a separate repository. The final project I submitted was the Bay View High School mobile app: [link](https://github.com/soodaayush/BVHApp). Its function serves as a central place for information surrounding the school.
+The final project is not in this repository, as it is in a separate repository. The final project I submitted was the Bay View High School mobile app: [link](https://github.com/soodaayush/BVHApp). Its function serves as a central place for information surrounding the school, such as news, events, important links, and more.
 
 ## Links
 
