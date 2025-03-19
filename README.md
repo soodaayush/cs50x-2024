@@ -8,7 +8,7 @@ I decided to redo this course due to the new content and my desire to earn the v
 
 ## Challenges
 
-I struggled mainly in the earlier weeks (Weeks 1 - 5) as I was required to write code in C, a language different from those I have used before.
+I struggled mainly in the earlier weeks (Weeks 1 - 5) as I was required to write code in C, a language that I am unfamiliar with due to its different nature when compared to languages I have already learned.
 
 ## Lessons Learned
 
@@ -20,7 +20,7 @@ This repository contains all the problem sets I submitted to Harvard’s `submit
 
 ## Final Project
 
-The final project is not in this repository, as it is in a separate repository. The final project I submitted was the Bay View High School mobile app: [link](https://github.com/soodaayush/BVHApp). Its function serves as a central place for information surrounding the school, such as news, events, important links, and more.
+The final project is not in this repository, as the code for it is in a separate codebase. The final project I submitted was the Bay View High School mobile app: [link](https://github.com/soodaayush/BVHApp). Its function serves as a central place for information surrounding the school, such as news, events, important links, and more.
 
 ## Links
 
