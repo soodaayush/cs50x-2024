@@ -4,25 +4,32 @@
 
 ## Inspiration
 
-I decided to redo this course due to the new content and my desire to earn the verified certificate offered by edX.
+I revisited CS50x in 2024 to explore its newly updated content and to challenge myself with one of the most rigorous introductions to computer science available. While I was also pursuing the verified certificate through edX, my primary goal was to deepen my understanding of core concepts and broaden my experience with lower-level programming and real-world tools.
 
 ## Challenges
 
-I struggled mainly in the earlier weeks (Weeks 1 - 5) as I was required to write code in C, a language that I am unfamiliar with due to its different nature when compared to languages I have already learned.
+The early weeks (1-5) were particularly demanding, as they focused on programming in C, an unfamiliar language for me. Unlike Python or JavaScript, C’s manual memory management and syntax forced me to think much more deeply about how code interacts with hardware. Although tough, this part of the course significantly strengthened my problem-solving skills.
 
 ## Lessons Learned
 
-I learned about implementing algorithms, writing SQL, the fundamentals of Flask, and cybersecurity principles.
+CS50x gave me a strong foundation across a wide range of topics:
+
+- Writing and analyzing algorithms
+- Building applications with Flask
+- Working with databases using SQL
+- Gaining a basic understanding of cybersecurity principles
+
+Each problem set pushed me to apply concepts in hands-on ways that simulated real-world challenges.
 
 ## The Repository
 
-This repository contains all the problem sets I submitted to Harvard’s `submit50` system to be graded, aiming to earn the certificate.
+This repository contains all of my completed problem sets, submitted to Harvard’s `submit50` system. These assignments represent hundreds of hours of effort and learning as I worked toward earning the certificate.
 
 ## Final Project
 
-The final project is not in this repository, as the code for it is in a separate codebase. The final project I submitted was the Bay View High School mobile app: [link](https://github.com/soodaayush/BVHApp). Its function serves as a central place for information surrounding the school, such as news, events, important links, and more.
+The final project I submitted to Harvard was the [Bay View High School Mobile App](https://github.com/soodaayush/BVHApp), a centralized platform for school news, announcements, and resources. This project combined my technical knowledge with a real community need.
 
 ## Links
 
-edX Certificate: https://courses.edx.org/certificates/51884bfbb2734dc4bbdf1eca77ce83db \
-CS50 Certificate: https://certificates.cs50.io/91926646-65e5-48dc-9c40-ec4d5144ca73.pdf?size=letter
+- [edX Certificate](https://courses.edx.org/certificates/51884bfbb2734dc4bbdf1eca77ce83db)
+- [CS50 Certificate](https://certificates.cs50.io/91926646-65e5-48dc-9c40-ec4d5144ca73.pdf?size=letter)
